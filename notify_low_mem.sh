@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 (
     # stuff in () ensures 1 only instance of script executes. No idea how this works. Source:
